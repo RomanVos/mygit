@@ -1,0 +1,26 @@
+.head {
+	border: 1px #800 solid;
+	margin: auto;
+	width: 800px;
+}
+
+.title_all {
+	border: 1px #000 solid;
+	width: 70%;
+	height: 100%;
+	float: left;
+}
+
+.title {
+	border: 1px #000 solid;
+	width: 510px;
+	margin: 15px;
+	padding: 10px;
+}
+
+.category {
+	border: 1px #000 solid;
+	width: 29%;
+	height: 100%;
+	float: left;
+}
